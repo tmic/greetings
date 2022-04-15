@@ -1,6 +1,9 @@
 # greetings
 greetings.sh is a script that displays a greeting on login.
 I added activation of the script in ~/.bashrc file. There may be other methods.
+
+greetings_compilation.sh is a script that revises the actors list based on desired max actor height using the greetings_template.sh script.
+
 ## Technical considerarions
 ### Dependencies
 Current script depends on
